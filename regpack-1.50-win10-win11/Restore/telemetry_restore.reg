@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Input\Settings]
+"InsightsEnabled"=-
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Input\TIPC]
+"Enabled"=-
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\AdvertisingInfo]
+"Enabled"=-
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Privacy]
+"TailoredExperiencesWithDiagnosticDataEnabled"=-
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection]
+"AllowTelemetry"=-
+"LimitEnhancedDiagnosticDataWindowsAnalytics"=-
