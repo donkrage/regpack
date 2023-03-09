@@ -5,11 +5,9 @@
 | **10** and **11**  | [Latest](https://github.com/donkrage/regpack/releases/latest)  |
 | **7** and **8.1**  | [Latest](https://github.com/donkrage/regpack/releases/tag/1.00)  |
 ## Available in [**winget**](https://learn.microsoft.com/windows/package-manager/winget)
-Commands for **PowerShell** or **Command Prompt**:
+Command for **PowerShell** or **Command Prompt**:
 ```
 winget install regpack
-winget uninstall regpack
-winget upgrade regpack
 ```
 Default directory is **Program Files (x86)**
 ###### Developed by TECHNOSHAHTA
