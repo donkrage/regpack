@@ -1,5 +1,5 @@
 # regpack
-<img align="center" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/en/9/97/Registry_Editor_icon.png">**Pack** with **.reg** files for essential optimization of **Windows Registry**
+**Pack** with **.reg** files for essential optimization of **Windows Registry**
 | Windows  | Link |
 | ------------- | ------------- |
 | **10** and **11**  | [Latest](https://github.com/donkrage/regpack/releases/latest)  |
